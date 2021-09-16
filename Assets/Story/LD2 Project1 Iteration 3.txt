@@ -1,0 +1,15 @@
+﻿The player begins in a dark room, lit only by the light under the entrance door. Inside they find a lantern with some oil inside. A stairway leads down into unknown blackness. The player lights the lantern and ventures down the stairs to find a dilapidated parlor littered with broken bottles and cobwebs. There are a few tables and chairs that look worn down through years of neglect. Above the tables are candleless chandeliers. In the back of the room, ther is a heavy looking door, locked shut. A dim glow shines from behind the bar in the parlor. At the source, the player finds a crumpled note addressed to the long-departed bartender, that warns of the horrors approaching his friend’s mansion. This letter holds a clue to a potential way to ward off the evil: a potion, not for drinking but for ritualistic cleansing of the haunted grounds. When the player finishes reading the note, they hear a loun crumble. Upon returning to the top of the stairs, the player notices that the sound was the result of the landing caving in, trapping the player in the parlor. The newly revealed room is the space behind the large door down below. In the hole left behind, the player peers the glint of a dark green bottle: the gin. The player jumps into the hole only to be ambushed by one of the spirits haunting the mansion. The fight leaves one of the walls destroyed, opening the way to a new area and the next level.
+
+
+Assets:
+* Lantern
+* Note
+* Bottle of Gin
+* Tables
+* Chairs
+* Flooring
+* Walls (
+* Ceiling
+* Spirit
+* Chandeliers
+* Cobwebs
