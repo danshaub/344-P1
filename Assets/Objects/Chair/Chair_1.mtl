@@ -1,0 +1,15 @@
+newmtl ProBuilderDefault
+map_Kd D:/Users/mtgri/Documents/Chapman University/Chapman Courses Fall 2021/CPSC 344 - Level Design II/Unity Projects/344-P1/344-P1/Assets/s/com.unity.probuilder/Content/Resources/Textures/GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material
+map_Kd D:/Users/mtgri/Documents/Chapman University/Chapman Courses Fall 2021/CPSC 344 - Level Design II/Unity Projects/344-P1/344-P1/Assets/3d Assets/Chest/dark wood.jpg
+Kd 1 1 1
+d 1
+
+newmtl New_Material_1
+map_Kd D:/Users/mtgri/Documents/Chapman University/Chapman Courses Fall 2021/CPSC 344 - Level Design II/Unity Projects/344-P1/344-P1/Assets/StarterAssets/Textures/celing.png
+Kd 1 1 1
+d 1
+

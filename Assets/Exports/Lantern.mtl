@@ -1,0 +1,10 @@
+newmtl Lantern
+bump D:/Unity/Projects/344-P1/Assets/Materials/Textures/Metals/metall005-new-nm.png
+map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/Metals/metall005.png
+Kd 1 1 1
+d 1
+
+newmtl LanternGlass
+Kd 0.6979192 1 0
+d 1
+

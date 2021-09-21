@@ -1,0 +1,35 @@
+newmtl Floor
+map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/Metals/checkerboard.png
+Kd 1 1 1
+d 1
+
+newmtl Walls
+map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/stonewall.jpg
+Kd 1 1 1
+d 1
+
+newmtl Ceiling
+map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/wood.jpg
+Kd 1 1 1
+d 1
+
+newmtl DoorFrame
+map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/wood.jpg
+Kd 1 1 1
+d 1
+
+newmtl RoomFrame
+map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/wood.jpg
+Kd 1 1 1
+d 1
+
+newmtl carpet
+map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/carpet.png
+Kd 1 1 1
+d 1
+
+newmtl WornFloor_2
+map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/worn floor.jpg
+Kd 1 1 1
+d 1
+

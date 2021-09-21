@@ -4,9 +4,14 @@ using UnityEngine;
 
 public class Collectible : MonoBehaviour
 {
+    public GameObject disableOnTrigger;
     //Upon a collider hitting the trigger, this collectible will be destroyed
     private void OnTriggerEnter(Collider other)
     {
+        if (disableOnTrigger != null)
+        {
+            disableOnTrigger.SetActive(false);
+        }
         Destroy(gameObject);
     }
 

@@ -1,0 +1,10 @@
+newmtl carpet
+map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/carpet.png
+Kd 1 1 1
+d 1
+
+newmtl Ceiling
+map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/wood.jpg
+Kd 1 1 1
+d 1
+

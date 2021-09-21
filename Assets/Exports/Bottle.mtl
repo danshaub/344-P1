@@ -1,0 +1,8 @@
+newmtl Bottle
+Kd 0.008741607 0.2830188 0
+d 0.6352941
+
+newmtl BottleLiquid
+Kd 1 1 1
+d 0.08627451
+
