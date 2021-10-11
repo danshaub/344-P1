@@ -1,35 +1,35 @@
 newmtl Floor
-map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/Metals/checkerboard.png
+map_Kd -o 0 0 -s 0.125 0.125 C:/CPSC_Courses/LevelDesign2/344-P1/Assets/Materials/Textures/Metals/checkerboard.png
 Kd 1 1 1
 d 1
 
 newmtl Walls
-map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/stonewall.jpg
+map_Kd -o 0 0 -s 0.2 0.2 C:/CPSC_Courses/LevelDesign2/344-P1/Assets/Materials/Textures/stonewall.jpg
 Kd 1 1 1
 d 1
 
 newmtl Ceiling
-map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/wood.jpg
+map_Kd -o 0 0 -s 0.1 0.1 C:/CPSC_Courses/LevelDesign2/344-P1/Assets/Materials/Textures/wood.jpg
 Kd 1 1 1
 d 1
 
 newmtl DoorFrame
-map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/wood.jpg
+map_Kd -o 0 0 -s 1 1 C:/CPSC_Courses/LevelDesign2/344-P1/Assets/Materials/Textures/wood.jpg
 Kd 1 1 1
 d 1
 
 newmtl RoomFrame
-map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/wood.jpg
+map_Kd -o 0 0 -s 1 1 C:/CPSC_Courses/LevelDesign2/344-P1/Assets/Materials/Textures/wood.jpg
 Kd 1 1 1
 d 1
 
 newmtl carpet
-map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/carpet.png
+map_Kd -o 0 0 -s 0.1 0.1 C:/CPSC_Courses/LevelDesign2/344-P1/Assets/Materials/Textures/carpet.png
 Kd 1 1 1
 d 1
 
 newmtl WornFloor_2
-map_Kd D:/Unity/Projects/344-P1/Assets/Materials/Textures/worn floor.jpg
+map_Kd -o 0 0 -s 0.3 0.3 C:/CPSC_Courses/LevelDesign2/344-P1/Assets/Materials/Textures/worn floor.jpg
 Kd 1 1 1
 d 1
 
